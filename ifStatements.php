@@ -7,7 +7,7 @@
     <body>
 
 <?php 
-$a=100; $b=200;
+$a=50; $b=200;
 if ($a>$b){
 echo "a is greater than b.";
 }
