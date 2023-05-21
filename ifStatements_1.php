@@ -8,6 +8,10 @@
 
 <?php 
 $a=300; $b=200;
+echo  $a;
+echo $b;
+
+
 if ($a>$b){
 echo "a is greater than b.";
 }
